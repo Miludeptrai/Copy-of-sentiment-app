@@ -1,6 +1,6 @@
 import pickle
 from flask import Flask
-from model import predict # Import predict function from model.py
+from .model import predict # Import predict function from model.py
 from transformers import RoFormerTokenizer,RoFormerForSequenceClassification
 import torch
 
