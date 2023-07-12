@@ -9,10 +9,10 @@ common Error : nltk
 
 try : 
 
-# python
+python
 
-# import nltk
+import nltk
 
-# nltk.download('wordnet')
+nltk.download('wordnet')
 
 Thank you! 
